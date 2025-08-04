@@ -464,11 +464,11 @@ export default function NextJSRoadmap() {
           </div>
         </div>
 
-        <div className="mt-3 text-sm text-gray-600">
+        {/* <div className="mt-3 text-sm text-gray-600">
           <strong>Ready for React Flow!</strong> This component now uses the
           official React Flow library from reactflow.dev with proper imports and
           hooks.
-        </div>
+        </div> */}
       </div>
 
       <div className="flex-grow">
